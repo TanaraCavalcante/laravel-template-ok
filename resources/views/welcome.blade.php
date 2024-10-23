@@ -7,6 +7,7 @@
     <title>Home</title>
 
     @vite("resources/js/app.js")
+
 </head>
 <body>
     <h1>Homepage</h1>
