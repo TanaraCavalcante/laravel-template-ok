@@ -1,6 +1,6 @@
 
 <header>
-    <h2>
-        header 
-    </h2>
+    <h1>
+        Header
+    </h1>
 </header>
